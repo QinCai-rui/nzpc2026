@@ -1,0 +1,33 @@
+gaps = list(map(int, input().split()))
+gaps.sort()
+n = int(input())
+
+dogs = []
+passed = []
+for i in range(n):
+    name, size = input().split()
+    if int(size) > max(gaps):
+        continue
+    for j in range(len(gaps)):
+        if int(size) <= gaps[j]:
+            size = j-1
+            break
+    try: 
+        dogs.append(name)
+        passed.append(gaps[size])
+    except TypeError:
+        continue
+if not passed:
+    print('No dogs fit!')
+    exit()
+# print(dogs)
+maximum=min(passed)
+buffer=[]
+for i in range(len(passed)):
+    if passed[i]==maximum:
+        buffer.append(dogs[i])
+
+buffer.sort()
+
+for i in buffer:
+    print(i)
