@@ -10,3 +10,21 @@ Post-contest archive of solutions (including "practice") from the New Zealand Pr
 - `*.bak`: earlier versions that did not pass any/all test cases
 
 (Obviously), the scripts have no external dependencies.
+
+## Scoreboard
+
+| Place | Team | School | Score | Time penalty |
+| ---: | --- | --- | ---: | ---: |
+| 6 | Better than Better than Slither | Macleans College, Auckland site | 82 | 1567 |
+
+| Problem | Time (minutes) | Attempts |
+| --- | ---: | --- |
+| A | 28 | 2 tries |
+| B | 70 | 4 tries |
+| C | 44 | 2 tries |
+| D | 95 | 2 tries |
+| E | 57 | 1 try |
+| F | 282 | 12 tries |
+| G | 207 | 3 tries |
+| H | 258 | 1 try |
+| I | 106 | 3 tries |
