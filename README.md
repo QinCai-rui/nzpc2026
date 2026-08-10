@@ -17,14 +17,14 @@ Post-contest archive of solutions (including "practice") from the New Zealand Pr
 | ---: | --- | --- | ---: | ---: |
 | 6 | Better than Better than Slither | Macleans College, Auckland site | 82 | 1567 |
 
-| Problem | Time (minutes) | Attempts |
-| --- | ---: | --- |
-| A | 28 | 2 tries |
-| B | 70 | 4 tries |
-| C | 44 | 2 tries |
-| D | 95 | 2 tries |
-| E | 57 | 1 try |
-| F | 282 | 12 tries |
-| G | 207 | 3 tries |
-| H | 258 | 1 try |
-| I | 106 | 3 tries |
+| Problem | Points | Time (minutes) | Attempts |
+| --- | ---: | ---: | --- |
+| A | 3 | 28 | 2 tries |
+| B | 3 | 70 | 4 tries |
+| C | 3 | 44 | 2 tries |
+| D | 3 | 95 | 2 tries |
+| E | 10 | 57 | 1 try |
+| F | 10 | 282 | 12 tries |
+| G | 10 | 207 | 3 tries |
+| H | 10 | 258 | 1 try |
+| I | 30 | 106 | 3 tries |
